@@ -32,6 +32,9 @@ The AI Text Enhancer is a Chrome extension that leverages the Deepseek API to pr
 ![image](https://github.com/user-attachments/assets/1c0b1cf4-19ee-4b3b-a6ae-4cabfb65f7a8)
 ![image](https://github.com/user-attachments/assets/1cceb21d-1b70-433c-afbc-8548d3b4cb1e)
 ![image](https://github.com/user-attachments/assets/94d06cb8-dfd9-4b97-a913-367b98b97087)
+![image](https://github.com/user-attachments/assets/c801f239-f9df-41b7-aafc-1fa6d8289065)
+![image](https://github.com/user-attachments/assets/203463db-6d9b-480b-a3a4-8cf2f0aef54a)
+
 
 
 ## Contribution Guidelines
