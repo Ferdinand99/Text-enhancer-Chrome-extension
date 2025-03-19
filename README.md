@@ -15,10 +15,6 @@ The AI Text Enhancer is a Chrome extension that leverages the Deepseek API to pr
 3.  Enable "Developer mode" in the top right corner.
 4.  Click "Load unpacked" and select the directory containing the extension files.
 
-### Alternative way:
-1. Go to release and download the latest .crx file
-2. Install the .crx to your chromium browser
-
 ## Usage
 
 1.  Install the AI Text Enhancer Chrome extension.
