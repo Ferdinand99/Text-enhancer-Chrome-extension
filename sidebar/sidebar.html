@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Text Enhancer</title>
+    <link rel="stylesheet" href="sidebar.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>AI Text Enhancer</h1>
+        </header>
+
+        <div class="selected-text-container">
+            <h3>Selected Text</h3>
+            <div id="selectedText" class="selected-text"></div>
+        </div>
+
+        <div class="enhancement-options">
+            <h3>Enhancement Options</h3>
+            
+            <div class="options-group">
+                <label for="styleSelect">Writing Style:</label>
+                <select id="styleSelect" class="select-input">
+                    <option value="">Choose style...</option>
+                    <option value="academic">Academic</option>
+                    <option value="casual">Casual</option>
+                    <option value="formal">Formal</option>
+                    <option value="poetic">Poetic</option>
+                    <option value="technical">Technical</option>
+                </select>
+            </div>
+
+            <div class="options-group">
+                <label for="toneSelect">Tone:</label>
+                <select id="toneSelect" class="select-input">
+                    <option value="">Choose tone...</option>
+                    <option value="authoritative">Authoritative</option>
+                    <option value="friendly">Friendly</option>
+                    <option value="humorous">Humorous</option>
+                    <option value="professional">Professional</option>
+                    <option value="serious">Serious</option>
+                </select>
+            </div>
+
+            <div class="options-grid">
+                <button id="enhanceBtn" class="primary-btn" disabled>
+                    <span>Enhance Text</span>
+                </button>
+                <button id="grammarBtn" class="option-btn">
+                    <span>Grammar Only</span>
+                </button>
+                <button id="summaryBtn" class="option-btn">
+                    <span>Summarize</span>
+                </button>
+            </div>
+        </div>
+
+        <div class="result-container">
+            <h3>Enhanced Text</h3>
+            <div id="loadingSpinner" class="loading-spinner hidden"></div>
+            <div id="resultText" class="result-text"></div>
+            <div class="action-buttons hidden" id="actionButtons">
+                <button id="copyBtn" class="action-btn">Copy</button>
+                <button id="replaceBtn" class="action-btn">Replace Original</button>
+            </div>
+        </div>
+
+        <div id="errorContainer" class="error-container hidden">
+            <p id="errorMessage"></p>
+        </div>
+    </div>
+    <script src="sidebar.js"></script>
+</body>
+</html>
