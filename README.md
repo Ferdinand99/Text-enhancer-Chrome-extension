@@ -30,6 +30,8 @@ The AI Text Enhancer is a Chrome extension that leverages the Deepseek API to pr
 7.  The enhanced text will be displayed in the sidebar. You can then copy the text or replace the original text on the webpage.
 
 ![image](https://github.com/user-attachments/assets/1c0b1cf4-19ee-4b3b-a6ae-4cabfb65f7a8)
+![image](https://github.com/user-attachments/assets/1cceb21d-1b70-433c-afbc-8548d3b4cb1e)
+![image](https://github.com/user-attachments/assets/94d06cb8-dfd9-4b97-a913-367b98b97087)
 
 
 ## Contribution Guidelines
