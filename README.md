@@ -46,6 +46,3 @@ We welcome contributions to the AI Text Enhancer project! To contribute:
 3.  Make your changes and commit them with clear, concise commit messages.
 4.  Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
